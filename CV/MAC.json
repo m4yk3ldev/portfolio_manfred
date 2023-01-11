@@ -1,0 +1,97 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Maykel",
+      "surnames": "Arias Torres",
+      "title": "Web Application Developer",
+      "description": "Sólidos conocimientos de front-end de React, ES6+, HTML5, CSS3, Redux, Typescript y Jest.\nFuerte comprensión de los principios de diseño de UI/UX, CSS avanzado (módulos CSS, emoción, Sass, componentes con estilo) y diseño receptivo.\nExperiencia de back-end con Node.js/Express, Python/Django, Auth, Security y RESTful API.\nAdministración de bases de datos relacionales y no relacionales usando MongoDB, PostgreSQL y MySQL.\nActitud positiva, fuerte ética de trabajo, enfoque en los resultados mientras se enfoca en la alta calidad y rendimiento del código.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "kiero-marketplace "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador FrontEnd",
+            "startDate": "2021-10-01",
+            "finishDate": "2022-12-31",
+            "challenges": [
+              {
+                "description": "Desarrollo y rediseño del sitio web de compras de la empresa utilizando\ntecnología (HTML5, CSS3, ES6+, Typescript, React, Jest, NextJS).\nCreación de un generador de sitemaps empleando (Python, Pandas, Jinja2)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VaronaTech "
+        },
+        "roles": [
+          {
+            "name": "Senior Web Application Developer",
+            "startDate": "2019-12-01",
+            "finishDate": "2021-10-31",
+            "challenges": [
+              {
+                "description": "Liderar el equipo de desarrollo, desarrollando aplicaciones para control de mareas\ny mareas negras, utilizando tecnologías (HTML5, CSS3, ES6+, Typescript, React,\nJest, NextJS), en el frontend y para el backend (Python, Django, Pandas, NumPy)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IslaPay LLC "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador FullStack",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-11-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de una plataforma y servicios de pago, donde se puedan utilizar\ncriptomonedas, utilizando tecnologías frontend como (HTML5, CSS3, ES6+, React)\ny backend (Python, Django) y base de datos relacional PostgreSQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Skycoin "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de back-end",
+            "startDate": "2018-11-01",
+            "finishDate": "2020-11-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de la biblioteca Core Python (pyskycoin), Golang usando el marco Swig\n3 en C. Más escritura de prueba usando (PyTest)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
