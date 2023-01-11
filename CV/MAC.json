@@ -15,9 +15,16 @@
         "link": ""
       },
       "location": {
+        "country": "Brasil",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/maykel-arias-torres-b827a6136/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -92,6 +99,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/maykel-arias-torres-b827a6136/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
